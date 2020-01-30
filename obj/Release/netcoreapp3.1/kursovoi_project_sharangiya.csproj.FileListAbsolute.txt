@@ -1,0 +1,11 @@
+G:\Desktop\учеба\программирование\kursovoi_project_sharangiya\bin\Release\netcoreapp3.1\kursovoi_project_sharangiya.exe
+G:\Desktop\учеба\программирование\kursovoi_project_sharangiya\bin\Release\netcoreapp3.1\kursovoi_project_sharangiya.deps.json
+G:\Desktop\учеба\программирование\kursovoi_project_sharangiya\bin\Release\netcoreapp3.1\kursovoi_project_sharangiya.runtimeconfig.json
+G:\Desktop\учеба\программирование\kursovoi_project_sharangiya\bin\Release\netcoreapp3.1\kursovoi_project_sharangiya.runtimeconfig.dev.json
+G:\Desktop\учеба\программирование\kursovoi_project_sharangiya\bin\Release\netcoreapp3.1\kursovoi_project_sharangiya.dll
+G:\Desktop\учеба\программирование\kursovoi_project_sharangiya\bin\Release\netcoreapp3.1\kursovoi_project_sharangiya.pdb
+G:\Desktop\учеба\программирование\kursovoi_project_sharangiya\obj\Release\netcoreapp3.1\kursovoi_project_sharangiya.csprojAssemblyReference.cache
+G:\Desktop\учеба\программирование\kursovoi_project_sharangiya\obj\Release\netcoreapp3.1\kursovoi_project_sharangiya.AssemblyInfoInputs.cache
+G:\Desktop\учеба\программирование\kursovoi_project_sharangiya\obj\Release\netcoreapp3.1\kursovoi_project_sharangiya.AssemblyInfo.cs
+G:\Desktop\учеба\программирование\kursovoi_project_sharangiya\obj\Release\netcoreapp3.1\kursovoi_project_sharangiya.dll
+G:\Desktop\учеба\программирование\kursovoi_project_sharangiya\obj\Release\netcoreapp3.1\kursovoi_project_sharangiya.pdb

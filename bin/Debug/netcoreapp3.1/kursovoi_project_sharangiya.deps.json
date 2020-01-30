@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "kursovoi_project_sharangiya/1.0.0": {
+        "runtime": {
+          "kursovoi_project_sharangiya.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kursovoi_project_sharangiya/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
