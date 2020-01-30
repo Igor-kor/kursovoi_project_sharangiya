@@ -37,6 +37,5 @@ namespace kursovoi_project_sharangiya
 			return x * x *Math.Sqrt(4-x*x);
 		}
 
-
 	}
 }
