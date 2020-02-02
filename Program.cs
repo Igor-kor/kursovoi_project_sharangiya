@@ -24,8 +24,8 @@ namespace kursovoi_project_sharangiya
                 // Значения с чётными индексами, которые нужно умножить на 2.
                 sumEven += function_integral(a + h * (i + 1));
             }
-            Console.Write("Ответ:");
-            Console.Write((b - a) / (6 * steps) * (function_integral(a) + 4 * sumOdd + 2 * sumEven - function_integral(b)));
+            Console.Write("Ответ:" + (b - a) / (6 * steps) * (function_integral(a) + 4 * sumOdd + 2 * (sumEven - function_integral(b))));
+            Console.ReadKey();
         }
 
         // Функция интеграла
