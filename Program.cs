@@ -7,11 +7,7 @@ namespace kursovoi_project_sharangiya
         static void Main(string[] args)
         {
             // Нижний и верхний пределы интегрирования, количество шагов.
-            double a, b, steps;
-            Console.Write("Нижний предел интегрирования = ");
-            a = Convert.ToDouble(Console.ReadLine());
-            Console.Write("Верхний предел интегрирования = ");
-            b = Convert.ToDouble(Console.ReadLine());
+            double a = 0, b = 2, steps;         
             Console.Write("Количество шагов = ");
             steps = Convert.ToDouble(Console.ReadLine());
             // Шаг интегрирования, сумма четных и нечетных элементов
